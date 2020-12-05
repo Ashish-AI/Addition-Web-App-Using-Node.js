@@ -4,5 +4,8 @@
 To run the app follow the steps:-
 <ol>
   <li>Open command line and run following after installing node.js </li>
+   <li>npm install express --save </li>
+  <li>npm install nodemon</li>
+  <li>npm install body-parser</li>
  
 </ol>
