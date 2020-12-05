@@ -7,5 +7,7 @@ To run the app follow the steps:-
    <li>npm install express --save </li>
   <li>npm install nodemon</li>
   <li>npm install body-parser</li>
+  <li>nodemon calculator.js</li>
+  <li>Open it using localhost:3000</li>
  
 </ol>
